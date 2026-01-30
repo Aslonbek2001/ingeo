@@ -63,8 +63,8 @@ REST_FRAMEWORK = {
 }
 
 SPECTACULAR_SETTINGS = {
-    'TITLE': 'University Project API',
-    'DESCRIPTION': 'University project description',
+    'TITLE': 'GGI institut API',
+    'DESCRIPTION': 'GGI institutining API hujjatlari',
     'VERSION': '1.0.0',
     'SERVE_INCLUDE_SCHEMA': False,
     "ENUM_NAME_OVERRIDES": {
