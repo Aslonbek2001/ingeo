@@ -1,4 +1,4 @@
-# Neft va gaz konlari geologiyasi hamda qidiruvi instituti  
+# H.M.Abdullayev nomidagi Geologiya va geofizika instituti
 ## Rasmiy veb-sayt backend xizmati
 
 Ushbu repository **H.M.Abdullayev nomidagi Geologiya va geofizika institutining**
