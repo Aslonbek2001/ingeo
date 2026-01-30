@@ -1,7 +1,7 @@
 # Neft va gaz konlari geologiyasi hamda qidiruvi instituti  
 ## Rasmiy veb-sayt backend xizmati
 
-Ushbu repository **Neft va gaz konlari geologiyasi hamda qidiruvi institutining**
+Ushbu repository **H.M.Abdullayev nomidagi Geologiya va geofizika institutining**
 rasmiy veb-sayti uchun backend (server-side) qismini o‘z ichiga oladi.
 
 Backend tizimi institut faoliyatiga oid ma’lumotlarni boshqarish, saqlash
