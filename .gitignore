@@ -1,0 +1,41 @@
+# Virtual Environment
+env/
+venv/
+.venv/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# Database
+db.sqlite3
+
+# Media and Static files (if not served by a CDN or collected into a build directory)
+media/
+static_collected/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Sensitive information
+*.env
+.env
+local_settings.py
+secret_key.py
+
+# Logs
+*.log
+
+# Test and coverage files
+.coverage
+htmlcov/
+
+# Django specific
+migrations/00*.py # Exclude empty migration files if desired, but usually migrations are tracked
