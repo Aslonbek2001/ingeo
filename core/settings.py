@@ -17,8 +17,7 @@ SECRET_KEY = 'django-insecure-^bso=voummt40i#1$_jro-4!501^len3%u2+8%1gp)fxz3wn-o
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "institut.eu.pythonanywhere.com",
-    "institute.pythonanywhere.com",
+    "ggi.pythonanywhere.com",
     "127.0.0.1",                    
     "localhost",
     "api.ing.uz",
@@ -132,23 +131,23 @@ WSGI_APPLICATION = 'core.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
-#     }
-# }
-
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'ingrnigm',
-        'USER': 'your_project_user',
-        'PASSWORD': 'Qasdz123!',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
+
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'ingrnigm',
+#         'USER': 'your_project_user',
+#         'PASSWORD': 'Qasdz123!',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
+#     }
+# }
 
 
 

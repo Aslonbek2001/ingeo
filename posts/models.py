@@ -7,6 +7,7 @@ from django.utils import timezone
 type_choices = (
     ("news", "Yangilik"),
     ("announcement", "E'lon"),
+    ("desertion", "Desertatsiya e'loni"),
 )
 
 # Create your models here.

@@ -49,7 +49,7 @@ class PostManageViewSet(viewsets.ModelViewSet):
             name="post_pk",
             description="Parent Post ID",
             required=True,
-            type=OpenApiTypes.INT,  # 👈 shu joy ogohlantirishni yo‘qotadi
+            type=OpenApiTypes.INT,
             location=OpenApiParameter.PATH,
         )
     ],
